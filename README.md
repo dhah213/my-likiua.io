@@ -1,2 +1,2 @@
-# my-likiua.io
+# my-likiua.com
 liki UA
